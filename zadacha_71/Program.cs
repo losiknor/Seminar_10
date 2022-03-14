@@ -9,8 +9,8 @@ string[] Words(string a, int num)
 {
     if (num == 0)
     {
-        string[] resul = { "" };
-        return resul;
+        // string[] resul = { "" };
+        return new string[]{""};
     }
     string[] w = Words(a, num - 1);
     string[] result = new string[w.Length * 4];
