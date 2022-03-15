@@ -16,4 +16,6 @@
 // - Группа 4: 8 12 18 20 27 28 30 42 44 45 50
 // - Группа 5: 16 24 36 40
 // - Группа 6: 32 48
+
+Console.WriteLine(Math.Pow(2, 5));
 Console.WriteLine("Hello, World!");
